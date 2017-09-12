@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+	<head>
+		<title>CYOA Green</title>
+	</head>
+	<body>
+		<h1>You drank green!</h1>
+		<p> Do you feel: </p>
+		<ul>
+		<div style="color: black;">
+		<li><a href="CYOANauseous.html">Nauseous</a></li>
+		<div style="color: black;">
+		or
+		<div style="color: black;">
+		<li><a href="CYOALightheaded.html">Lightheaded</a></li>
+	</body>
