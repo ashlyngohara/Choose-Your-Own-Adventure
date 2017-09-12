@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+	<head>
+		<title>CYOA Nauseous</title>
+	</head>
+	<body>
+		<h1>Oh, no! You feel nauseous!</h1>
+		<p> You are either: </p>
+		<ul>
+		<div style="color: black;">
+		<li>Have a sensitive stomach!</a></li>
+		<div style="color: black;">
+		or
+		<div style="color: black;">
+		<li>Don't like the tast of black licorice!</a></li>
+	</body>
